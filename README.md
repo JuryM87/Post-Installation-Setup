@@ -31,10 +31,12 @@ Agents and managers can be assigned to one or more departments through the Admin
 - Configure Help Topics
 
 - <h2>Configuration of Roles</h2>
+
 A) Admin Panel > Agents > Roles
+
 B) Superior Admin
 
-<img src="https://i.imgur.com/sfSCLNv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eHgF4RJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Create the role Superior Admin, and give it the accessbility that a Superior Admin should have. Complete Control.
 
