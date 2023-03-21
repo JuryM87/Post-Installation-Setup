@@ -18,8 +18,6 @@ This tutorial outlines the creation of Agents, Departments and SLA's in the help
 
 - Windows 10</b> (21H2)
 <p>
-Agents and managers can be assigned to one or more departments through the Admin Panel's Agents tab. These departments, which can be either private or public, are used to route tickets in the help desk system. To configure departments, go to the Admin Panel's Agents tab.
-<br />
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -78,8 +76,10 @@ A) Admin Panel > Agents > Add New Agent
 - Kayden
 - Benjamin
 
-<img src="https://i.imgur.com/pbyL9lP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nT4TYi4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
+Edit Access, Permissions, and Teams as needed for the designated agent
 
 
 <img src="https://i.imgur.com/oaYFKkO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -92,4 +92,51 @@ A) Agent Panel > User > Add New User
 - Sammy
 - Rudy
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iiyucZ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+- <h2>Configure SLA/h2>
+
+A) Admin Panel > Manage > SLA > Add New SLA Plan
+
+<img src="https://i.imgur.com/TmBYI6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+B) Sev-A (1 hour, 24/7)
+ 
+   Sev-B (4 hour, 24/7)
+  
+   Sev-C (1 hour, 24/7)
+  
+<img src="https://i.imgur.com/99kwMgq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+Once you're finished entering your SLA Plan's, it should look like this
+  
+  
+<img src="https://i.imgur.com/ANtmyxe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+- <h2>Configure Help Topics</h2>
+
+A) Admin Panel > Manage > Help Topics
+
+<img src="https://i.imgur.com/rKlQ35Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+B) Add New Help Topics
+  
+  - Business Critcal Outage
+  
+  - Personal Computer Issues
+  
+  - Equipment Request
+  
+  - Password Reset
+  
+  When complete, it should look like this
+  
+  <img src="https://i.imgur.com/t0fNX8H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+  On the next tutorial, we will creat tickets & dislpay the Ticket Lifecycle
+  
+  
