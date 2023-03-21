@@ -95,7 +95,7 @@ A) Agent Panel > User > Add New User
 <img src="https://i.imgur.com/iiyucZ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-- <h2>Configure SLA/h2>
+- <h2>Configure SLA</h2>
 
 A) Admin Panel > Manage > SLA > Add New SLA Plan
 
