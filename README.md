@@ -73,14 +73,23 @@ B) Click Registration Required > Save Changes
 
 - <h2>Configure Agents (Workers)</h2>
 
-A) Admin Panel > Agents > Add New
+A) Admin Panel > Agents > Add New Agent
 
 - Kayden
 - Benjamin
 
 <img src="https://i.imgur.com/pbyL9lP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
+
 <img src="https://i.imgur.com/oaYFKkO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+- <h2>Configure Users (Customers)</h2>
 
+A) Agent Panel > User > Add New User
+
+- Sammy
+- Rudy
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
