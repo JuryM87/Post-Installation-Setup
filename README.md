@@ -137,6 +137,6 @@ B) Add New Help Topics
   <img src="https://i.imgur.com/t0fNX8H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   
-  On the next tutorial, we will creat tickets & dislpay the Ticket Lifecycle
+  On the next tutorial, we will creat tickets & dislpay the <a href="https://github.com/JuryM87/osTicket-Lifestyle.git"></h1>Post Installation Setup Ticket Lifecycle
   
   
