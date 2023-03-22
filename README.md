@@ -64,7 +64,7 @@ C) Level II Support > Edit to your liking > Create Teams
 
 A) Admin Panel > Settings > User Settings
 
-B) Click Registration Required > Save Changes
+B) Click Registration Required (For demonstration purposes I will unclick it) > Save Changes
 
 <img src="https://i.imgur.com/pbyL9lP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -76,7 +76,7 @@ A) Admin Panel > Agents > Add New Agent
 - Kayden
 - Benjamin
 
-<img src="https://i.imgur.com/nT4TYi4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aZ2KGEP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 Edit Access, Permissions, and Teams as needed for the designated agent
@@ -92,7 +92,7 @@ A) Agent Panel > User > Add New User
 - Sammy
 - Rudy
 
-<img src="https://i.imgur.com/iiyucZ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kl5YNVe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 - <h2>Configure SLA</h2>
@@ -120,7 +120,7 @@ Once you're finished entering your SLA Plan's, it should look like this
 
 A) Admin Panel > Manage > Help Topics
 
-<img src="https://i.imgur.com/rKlQ35Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PUOEmuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 B) Add New Help Topics
   
