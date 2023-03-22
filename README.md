@@ -36,7 +36,7 @@ B) Superior Admin > Create Role
 
 <img src="https://i.imgur.com/eHgF4RJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Create the role Superior Admin, and give it the accessbility that a Superior Admin should have. Complete Control.
+Create the role Superior Admin, and give it the accessbility that a Superior Admin should have FULL CONTROL.
 
 <img src="https://i.imgur.com/95zIXPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
