@@ -64,7 +64,7 @@ C) Level II Support > Edit to your liking > Create Teams
 
 A) Admin Panel > Settings > User Settings
 
-B) Click Registration Required (For demonstration purposes I will unclick it) > Save Changes
+B) Click Registration Required (for demonstration purposes I will unclick it) > Save Changes
 
 <img src="https://i.imgur.com/pbyL9lP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -80,9 +80,6 @@ A) Admin Panel > Agents > Add New Agent
 
 
 Edit Access, Permissions, and Teams as needed for the designated agent
-
-
-<img src="https://i.imgur.com/oaYFKkO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 - <h2>Configure Users (Customers)</h2>
@@ -120,8 +117,6 @@ Once you're finished entering your SLA Plan's, it should look like this
 
 A) Admin Panel > Manage > Help Topics
 
-<img src="https://i.imgur.com/PUOEmuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
 B) Add New Help Topics
   
   - Business Critcal Outage
@@ -133,9 +128,9 @@ B) Add New Help Topics
   - Password Reset
   
   When complete, it should look like this
+
+<img src="https://i.imgur.com/PUOEmuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
-  <img src="https://i.imgur.com/t0fNX8H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
- On the next tutorial, we will create tickets & dislpay the <a href="https://github.com/JuryM87/osTicket-Lifestyle.git"></h1>Ticket Lifecycle
+On the next tutorial, we will create tickets & dislpay the <a href="https://github.com/JuryM87/osTicket-Lifestyle.git"></h1>Ticket Lifecycle
   
   
